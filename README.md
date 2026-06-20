@@ -24,15 +24,23 @@ The Face Recognition Project is a real-time computer vision application develope
 
 The system continuously captures video from a laptop camera, detects faces in each frame, extracts facial features, compares them against known identities, and displays recognition results instantly.
 
-The project currently recognizes:
+##The project currently recognizes:
 
 - 👤 Anees
 - 👤 Lubaba
 - 👤 Sajid
 
-Any unregistered face is automatically labeled:
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec677514-fcfd-4aab-96f4-694049978276" />
+
+
+
+##Any unregistered face is automatically labeled:
 
 ❓ Unknown
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/905fa94d-a561-48d9-937e-1c7d1ccbaf4d" />
+
+
 
 The project demonstrates practical implementation of:
 
